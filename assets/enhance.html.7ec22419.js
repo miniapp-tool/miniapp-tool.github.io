@@ -1,0 +1,1 @@
+const e={key:"v-caf5648e",path:"/api/enhance.html",title:"@mptool/enhance API",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"$App",slug:"app",children:[{level:3,title:"$App.config",slug:"app-config",children:[]}]}],filePathRelative:"api/enhance.md",git:{updatedTime:1625313472e3,contributors:[]}};export{e as data};
