@@ -1,0 +1,1 @@
+const e={key:"v-a83cae62",path:"/api/file.html",title:"@mptool/file",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],filePathRelative:"api/file.md",git:{updatedTime:1625406403e3,contributors:[]}};export{e as data};
