@@ -1,0 +1,1 @@
+const t={key:"v-5ceabafb",path:"/guide/get-started.html",title:"MP Tool",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],filePathRelative:"guide/get-started.md",git:{updatedTime:1625629375e3,contributors:[]}};export{t as data};
