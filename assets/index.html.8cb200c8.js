@@ -1,0 +1,1 @@
+const e={key:"v-0a957d0f",path:"/api/enhance/",title:"@mptool/enhance",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"目录",slug:"目录",children:[]}],filePathRelative:"api/enhance/readme.md",git:{updatedTime:1626280358e3,contributors:[]}};export{e as data};
