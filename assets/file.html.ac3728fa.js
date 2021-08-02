@@ -1,0 +1,1 @@
+import{o as a,c as e,F as l,a as o,b as r}from"./app.aa972803.js";const t={},n=o("h1",{id:"mptool-file",tabindex:"-1"},[o("a",{class:"header-anchor",href:"#mptool-file","aria-hidden":"true"},"#"),r(" @mptool/file")],-1),s=o("blockquote",null,[o("p",null,"TODO:　制作文档")],-1);t.render=function(o,r){return a(),e(l,null,[n,s],64)};export{t as default};
